@@ -1,0 +1,16 @@
+.calc {
+height: 450px;
+width: 350px;
+border: solid black 2px;
+}
+
+input.number {
+height: 40px;
+width: 200px;
+}
+
+input {
+height: 50px;
+width: 50px;
+
+}
