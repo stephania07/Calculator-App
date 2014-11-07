@@ -1,0 +1,23 @@
+{
+  "name": "Calculator-App",
+  "version": "0.1.0",
+  "authors": [
+    "Stephania <stephania07>", "Charisse Lambert"
+  ],
+  "description": "Calculator",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "specs"
+  ],
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.9.2",
+    "lodash": "~2.4.1"
+  }
+}
